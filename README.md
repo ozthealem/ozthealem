@@ -10,7 +10,7 @@ and art-driven technical experiments.
 - Art × technology intersections
 
 ## Selected Work
-- **AI-Context-Constitution**  
+- **Ethical AI Constitution**  
   A human-first constitution for using AI without losing intent, authorship, or cognition.
   https://github.com/ozthealem/Ethical-AI-Constitution
 
