@@ -12,10 +12,10 @@ and art-driven technical experiments.
 ## Selected Work
 - **AI-Context-Constitution**  
   A human-first constitution for using AI without losing intent, authorship, or cognition.
-  https://github.com/ozthealem/AI-Context-Constitution
+  https://github.com/ozthealem/Ethical-AI-Constitution
 
 ## Elsewhere
 - ArtStation: https://www.artstation.com/ozthealem
 
 *Working under the name **ozthealem***  
-© Ozgur Serdar
+© Ozgur Serdar Altunoglu
