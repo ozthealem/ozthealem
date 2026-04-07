@@ -1,21 +1,15 @@
 # ozthealem
 
-Artist-researcher working on visual systems, creative tools,  
-and art-driven technical experiments.
+Building worlds at the intersection of art, systems, and research.
 
-## Focus
-- Visual systems & interaction
-- Creative tooling
-- AI-assisted workflows (human-first)
-- Art × technology intersections
+## Work
+→ Concept design, animation, game development
+→ artstation.com/ozthealem
 
-## Selected Work
-- **Ethical AI Constitution**  
-  A human-first constitution for using AI without losing intent, authorship, or cognition.
-  https://github.com/ozthealem/Ethical-AI-Constitution
+## Research  
+→ Visual systems, technical art, ethical AI
+→ orcid.org/0000-0001-9457-0036
 
-## Elsewhere
-- ArtStation: https://www.artstation.com/ozthealem
-
-*Working under the name **ozthealem***  
-© Ozgur Serdar Altunoglu
+## Active
+→ Untitled solo game in development
+→ Ethical AI Constitution — v2.3.0
